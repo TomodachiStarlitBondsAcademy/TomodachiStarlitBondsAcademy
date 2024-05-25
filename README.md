@@ -63,8 +63,8 @@ Our continuous learning journey includes:
 ## 💞️ I’m looking to collaborate on...
 We welcome collaboration on projects that align with our mission and values, including:
 
-1. Developing Interactive Educational Stories About Friendship in Japanese Culture**: Partnering with writers, educators, and historians to create stories that vividly illustrate the themes of friendship in historical contexts.
-2. Creating Fun and Engaging Activities That Teach Historical Concepts**: Working with activity designers and educators to develop interactive games, workshops, and crafts that make learning about the Edo period and Japanese culture an enjoyable experience.
+1. Developing Interactive Educational Stories About Friendship in Japanese Culture: Partnering with writers, educators, and historians to create stories that vividly illustrate the themes of friendship in historical contexts.
+2. Creating Fun and Engaging Activities That Teach Historical Concepts: Working with activity designers and educators to develop interactive games, workshops, and crafts that make learning about the Edo period and Japanese culture an enjoyable experience.
 3. Expanding the Understanding of the Edo Period’s Influence on Contemporary Japanese Society**: Collaborating with researchers and cultural experts to explore how the values and practices of the Edo period continue to shape modern Japan.
 4. Multimedia Content Development: Partnering with multimedia professionals to create videos, podcasts, and other digital content that brings our educational stories to life.
 5. Cultural Exchange Initiatives: Working with organizations to develop exchange programs that allow participants to experience Japanese culture firsthand.
