@@ -33,7 +33,7 @@ Whether you are a history enthusiast, an educator, a student, or simply someone 
 Welcome to a world where the bonds of friendship transcend time and culture. Welcome to Tomodachi Starlit Bonds Academy.
 
 ## 👀 I’m interested in...
-At **Tomodachi Starlit Bonds Academy**, our interests lie at the intersection of history, culture, and education. We are passionate about:
+At Tomodachi Starlit Bonds Academy, our interests lie at the intersection of history, culture, and education. We are passionate about:
 
 1. The History and Cultural Significance of Friendship in Japan: Delving into the rich historical contexts and cultural narratives that have shaped the concept of friendship (友達, Tomodachi) in Japan. From ancient times through the Edo period, we explore how friendships were formed, maintained, and celebrated.
 2. Educational Content Creation: Crafting immersive and engaging educational content that brings history to life. Our goal is to make learning about Japanese culture and history both enjoyable and impactful.
