@@ -1,7 +1,5 @@
 # Friendship In The Muromachi Period
 
-![Muromachi Period](muromachi_period.jpg)
-
 Welcome to the "Friendship In The Muromachi Period" folder of the Tomodachi Starlit Bonds Academy GitHub repository! This folder is dedicated to exploring the concept of friendship during the Muromachi Period in Japanese history.
 
 ## About the Muromachi Period
