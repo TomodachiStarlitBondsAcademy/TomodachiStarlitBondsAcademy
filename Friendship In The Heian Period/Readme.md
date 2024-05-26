@@ -1,7 +1,5 @@
 # Friendship In The Heian Period
 
-![Heian Period](heian_period.jpg)
-
 Welcome to the "Friendship In The Heian Period" folder of the Tomodachi Starlit Bonds Academy GitHub repository! In this folder, you will find educational materials and resources exploring the concept of friendship during the Heian Period in Japan.
 
 ## About the Heian Period
