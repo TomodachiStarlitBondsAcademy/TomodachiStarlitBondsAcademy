@@ -3,13 +3,6 @@
 ## Introduction
 Welcome to the "Understanding Friendship in Japanese Culture" learning folder. This collection of resources is designed to explore the concept of friendship as it manifests across various aspects of Japanese life. Each section provides insights into how friendship is understood, expressed, and celebrated through different cultural lenses. This guide will help you navigate through the different topics and make the most of the materials provided.
 
-## Folder Structure
-- **Friendship in Japanese Language Educational Policy**
-- **Friendship in Japanese Dance Forms**
-- **Friendship in Japanese Animation**
-- **Friendship in Japanese Calligraphy**
-- **Friendship in Japanese Cuisine**
-
 ### 1. Friendship in Japanese Language Educational Policy
 This section examines how friendship and social relationships are cultivated within the Japanese educational system.
 
