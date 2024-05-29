@@ -3,12 +3,6 @@
 ## Introduction
 Welcome to the "Friendship in Taisho and Showa Periods" learning folder. This collection of resources explores the dynamics and expressions of friendship during the Taisho (1912-1926) and Showa (1926-1989) periods in Japan. These eras were marked by significant social, cultural, and political changes, which influenced the nature and perception of friendships. This guide will lead you through an exploration of friendship during these transformative periods, shedding light on its role in shaping personal relationships, societal norms, and cultural expressions.
 
-## Folder Structure
-- **Friendship in Taisho Period**
-- **Friendship in Showa Period**
-- **Literature and Artistic Representations of Friendship**
-- **Social and Cultural Influences on Friendship**
-
 ### 1. Friendship in Taisho Period
 Explore the nature and significance of friendship during the Taisho period, characterized by modernization, Westernization, and cultural experimentation.
 
