@@ -3,12 +3,6 @@
 ## Introduction
 Welcome to the "Friendship in the Heian Period" learning folder. This collection of resources explores the concept and manifestations of friendship during the Heian period (794-1185) in Japan, a time characterized by cultural refinement, artistic innovation, and aristocratic court life. The Heian period saw the flourishing of literature, poetry, and aesthetic pursuits, providing a rich backdrop for the exploration of friendships among the aristocracy. This guide will lead you through an exploration of friendship during this captivating era, shedding light on its significance in personal relationships, cultural expressions, and societal structures.
 
-## Folder Structure
-- **Social Dynamics and Friendship Norms**
-- **Literature and Poetic Expressions of Friendship**
-- **Friendship Among Courtiers and Noblewomen**
-- **Impact of Heian Culture on Friendship**
-
 ### 1. Social Dynamics and Friendship Norms
 Explore the social structures and cultural norms that shaped friendships during the Heian period, including courtly etiquette and hierarchical relationships.
 
