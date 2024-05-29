@@ -3,12 +3,6 @@
 ## Introduction
 Welcome to the "Friendship in the Edo Period" learning folder. This collection of resources explores the intricacies of friendship during the Edo period (1603-1868) in Japan, a time marked by stability, urbanization, and cultural flourishing. The Edo period saw the rise of the samurai class, the development of vibrant urban culture, and the emergence of distinct social norms and practices that influenced the nature of friendships. This guide will lead you through an exploration of friendship during this fascinating era, shedding light on its significance in personal relationships, societal structures, and cultural expressions.
 
-## Folder Structure
-- **Social Dynamics and Friendship Norms**
-- **Literature and Artistic Representations of Friendship**
-- **Friendship Among Samurai and Commoners**
-- **Impact of Edo Culture on Friendship**
-
 ### 1. Social Dynamics and Friendship Norms
 Explore the social structures and cultural norms that shaped friendships during the Edo period, including hierarchical relationships and communal bonds.
 
