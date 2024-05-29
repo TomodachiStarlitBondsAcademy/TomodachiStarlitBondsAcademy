@@ -3,12 +3,6 @@
 ## Introduction
 Welcome to the "Friendship in the Muromachi Period" learning folder. This collection of resources delves into the complexities of friendship during the Muromachi period (1336-1573) in Japan, a time marked by political turmoil, cultural renaissance, and the rise of warrior culture. The Muromachi period witnessed the dominance of the Ashikaga shogunate, the flourishing of Zen Buddhism and tea ceremony culture, and the profound influence of Chinese aesthetics and Confucian ethics. This guide will lead you through an exploration of friendship during this transformative era, shedding light on its significance in personal relationships, societal structures, and cultural expressions.
 
-## Folder Structure
-- **Social Dynamics and Friendship Norms**
-- **Literature and Artistic Representations of Friendship**
-- **Friendship Among Samurai and Intellectuals**
-- **Impact of Muromachi Culture on Friendship**
-
 ### 1. Social Dynamics and Friendship Norms
 Explore the social structures and cultural norms that shaped friendships during the Muromachi period, including the influence of warrior ethos and Zen philosophy.
 
