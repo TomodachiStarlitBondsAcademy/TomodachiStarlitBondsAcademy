@@ -3,12 +3,6 @@
 ## Introduction
 Welcome to the "Friendship in the Kamakura Period" learning folder. This collection of resources delves into the complexities of friendship during the Kamakura period (1185-1333) in Japan, a time marked by political upheaval, cultural renaissance, and the rise of warrior culture. The Kamakura period witnessed the dominance of the Ashikaga shogunate, the flourishing of Zen Buddhism and tea ceremony culture, and the profound influence of Chinese aesthetics and Confucian ethics. This guide will lead you through an exploration of friendship during this transformative era, shedding light on its significance in personal relationships, societal structures, and cultural expressions.
 
-## Folder Structure
-- **Social Dynamics and Friendship Norms**
-- **Literature and Artistic Expressions of Friendship**
-- **Friendship Among Samurai and Clergy**
-- **Impact of Kamakura Culture on Friendship**
-
 ### 1. Social Dynamics and Friendship Norms
 Explore the social structures and cultural norms that shaped friendships during the Kamakura period, including the influence of warrior ethos and Zen philosophy.
 
