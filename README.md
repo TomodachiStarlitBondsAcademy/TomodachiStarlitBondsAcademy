@@ -105,3 +105,5 @@ Under the following terms:
 - **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 For more details, visit the [Creative Commons License website](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+https://orcid.org/0009-0002-3953-6462
