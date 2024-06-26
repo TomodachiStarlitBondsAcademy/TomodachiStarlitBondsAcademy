@@ -79,9 +79,7 @@ For inquiries, collaboration opportunities, or to learn more about our academy, 
 4. Tea ceremonies, an important cultural practice in Japan, were often social events that strengthened friendships and built community ties.
 5. Haiku poetry, which flourished during the Edo period, frequently explored themes of nature and friendship, reflecting the close bonds people had with each other and their environment.
 6. The concept of "nakama" (仲間) referred to a group of friends or companions who supported each other, especially in the context of work or shared endeavors.
-7. "Omiyage" (お土産), the
-
- practice of bringing back gifts for friends and family from travels, has its roots in Edo period customs, emphasizing the importance of thoughtfulness and consideration in friendships.
+7. "Omiyage" (お土産), the practice of bringing back gifts for friends and family from travels, has its roots in Edo period customs, emphasizing the importance of thoughtfulness and consideration in friendships.
 8. Friendship in Japanese culture often involves "amae" (甘え), the mutual dependency and indulgence between close friends, highlighting a deep emotional bond.
 9. Seasonal festivals, such as Hanami (cherry blossom viewing), were communal activities where friendships were celebrated and strengthened through shared experiences.
 10. The popular Edo period art form of "ukiyo-e" (浮世絵) often depicted scenes of friends enjoying leisure activities, illustrating the importance of social bonds in everyday life.
